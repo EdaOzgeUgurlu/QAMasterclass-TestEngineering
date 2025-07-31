@@ -1,4 +1,5 @@
 # 🧪 QA Masterclass: Test Engineering Bootcamp Ödevi
+# TESTRAİL LİNKİ: https://masterclass1369.testrail.io/index.php?/dashboard
 
 Bu proje, QA Masterclass kapsamında verilen Yazılım Test Süreçleri ödevinin kapsamlı bir şekilde uygulanmasını içermektedir. Ödev 3 temel başlıktan oluşmaktadır: **Manuel Test**, **Test Otomasyonu**, ve **API Testleri**.
 
