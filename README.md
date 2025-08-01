@@ -440,7 +440,8 @@ Kullanıcı ana sayfada olmalı.
 ### 🌐 API Testleri
 
 - Postman Collection Görünümü  
-[PetStore.postman_collection_EdaOzgeUgurlu]
+[Uploading PetStore.postman_collection_EdaOzgeUgurlu…]()
+
 
   ## 💬 Katkı ve Geri Bildirim
 
